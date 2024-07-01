@@ -14,14 +14,14 @@ For this project I used:
 * **Python, Notebook 3.6**
 * **Pandas**
 * **Numpy**
-* For the graphics I imported:
+ For the graphics I imported:
 * **(`import seaborn as srn`)**
 * **('import matplotlib.pyplot as plt')**
-* For forecast models:
+ For forecast models:
 * **from sklearn.model_selection ('import train_test_split')**
 * **from sklearn.linear_model ('import LinearRegression')**
 * **from sklearn.ensemble ('import RandomForestClassifier')**
-* Finally, to calculate the errors I used:
+ Finally, to calculate the errors I used:
 * **from sklearn.metrics ('import mean_absolute_error')**
 * **from sklearn.metrics ('import mean_squared_error')**
 
